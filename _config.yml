@@ -1,11 +1,11 @@
 ---
 
 url: "http://help.757live.co/"
-name: VectorHack
-title: VectorHack
+name: 757Live Network
+title: 757Live
 description: "Machine learning news and insights"
 
-timezone: Etc/GMT
+timezone: Asia/Kolkata
 
 plugins:
   - jekyll-feed
